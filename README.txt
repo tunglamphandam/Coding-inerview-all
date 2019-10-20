@@ -58,5 +58,4 @@ V.MISCELLANEOUS
 47.How is a radix sort algorithm implemented?
 48.How do you swap two numbers without using the third variable?
 49.How do you check if two rectangles overlap with each other?
-
 50.How do you design a vending machine?
