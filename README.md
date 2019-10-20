@@ -4,7 +4,7 @@ Coding interview is an area of coding which is essential for developers who want
 Google, FaceBook, Amazon and many more. So I create this with the aim to benefiting dev in coding interview 
 
 Source: https://simpleprogrammer.com/programming-interview-questions/
-I. ARRAY<\n>
+I. ARRAY
 1.How do you find the missing number in a given integer array of 1 to 100?
 2.How do you find the duplicate number on a given integer array?
 3.How do you find the largest and smallest number in an unsorted integer array?
